@@ -1,0 +1,47 @@
+button {
+  width: 100%;
+}
+.col {
+  display: inline-block;
+  width: 50px;
+  margin: 5px;
+}
+.container {
+  width: 300px;
+}
+.col-12 {
+  width: 254px;
+  margin-top: 40px;
+}
+.display {
+  width: 400px;
+  height: 30px;
+  background-color: gray;
+  margin: 50px;
+  margin-left: -72px;
+  margin-bottom: 80px;
+  text-align: center;
+  color: white;
+}
+
+.color {
+  background-color: #AAA;
+}
+
+#stoimost {
+  margin: 10px;
+  text-align: center;
+  margin-left: -15px;
+}
+
+.myForm {
+  border: 1px solid grey;
+  border-radius: 10px;
+  width: 800px;
+  margin: 10px;
+  margin-left: -262px;
+  padding: 10px;
+}
+.noShow {
+  display: none;
+}
